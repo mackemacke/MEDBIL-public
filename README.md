@@ -5,7 +5,7 @@ The website is built using ___HTML, JavaScript, and CSS___, and features functio
 
 Live at https://www.medbil.se
 
-_Sensitive information has not been pushed to Github for obvious reasons._
+_Sensitive information has not been pushed to GitHub for obvious reasons._
 
 ## Features
 
