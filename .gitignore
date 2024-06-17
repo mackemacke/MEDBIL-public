@@ -1,0 +1,44 @@
+# Ignore environment variable files
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Ignore log files
+*.log
+logs
+*.log.*
+npm-debug.log*
+
+# Ignore OS generated files
+.DS_Store
+Thumbs.db
+
+# Ignore build directories
+dist/
+build/
+
+# Ignore all images
+images/
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.webp
+*.svg
+
+# Ignore other sensitive or temporary files
+*.tmp
+*.swp
+*.bak
+
+# Ignore local IDE or editor configurations
+.vscode/
+.idea/
+
+# Ignore specific JS files containing sensitive information
+js/emailJS.js
+
+# Temporary removal of contact-us page
+contact-us.html
